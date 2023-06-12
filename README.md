@@ -17,9 +17,9 @@ To use the notebook, follow these steps:
 
 2. Click on "File" and select "Open Notebook".
 
-3. In the "GitHub" tab, enter the URL of this repository: `https://github.com/your-username/How-find-bad-labels`.
+3. In the "GitHub" tab, enter the URL of this repository: `https://github.com/your-username/How-to-find-bad-labels`.
 
-4. Click on the notebook file `How-find-bad-labels.ipynb` to open it.
+4. Click on the notebook file `How-to-find-bad-labels.ipynb` to open it.
 
 5. Run the cells in the notebook sequentially to execute the code and analyze your dataset.
 
