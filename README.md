@@ -1,4 +1,4 @@
-#How Find To Bad Labels In Dataset
+# How Find To Bad Labels In Dataset
 
 ## Description
 This repository contains a Google Colab notebook that provides tools and techniques to help identify and locate bad labels in datasets. Bad labels refer to incorrect, inconsistent, or misleading annotations assigned to data points. Identifying and rectifying bad labels is crucial for improving the accuracy and reliability of machine learning models.
